@@ -7,16 +7,16 @@
 	 <channel>
 		 <title>RSS Example</title>
 		 <description>Example of an RSS feed containing a malicious entity</description>
-		 <link>http://www.domain.com/link.htm</link>
+		 <link>https://github.com/tonvanbart/xxedemo</link>
 		 <lastBuildDate>Mon, 28 Aug 2006 11:12:55 -0400 </lastBuildDate>
-		 <pubDate>Tue, 29 Aug 2006 09:00:00 -0400</pubDate>
+		 <pubDate>Sun, 31 Aug 2014 22:33:00 +0100</pubDate>
 
 		 <item>
 			 <title>|&xxe;|</title>
 			 <description>This is an example of an Item</description>
-			 <link>http://www.domain.com/link.htm</link>
+			 <link>https://github.com/tonvanbart/xxedemo</link>
 			 <guid isPermaLink="false"> 1102345</guid>
-			 <pubDate>Tue, 29 Aug 2006 09:00:00 -0400</pubDate>
+			 <pubDate>Sun, 31 Aug 2014 22:33:00 +0100</pubDate>
 		 </item>
 
 	 </channel>
